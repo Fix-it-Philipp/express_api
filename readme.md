@@ -6,3 +6,4 @@ installation:
     npm i body-parser <!--  -->
     npm i --save-dev @types/express @types/node <!--  -->
     [npm i --save-dev typescript] <- nur wenn kein Typescript installiert wäre <!--  -->
+    npm i mysql2 <!-- mysql Treiber -->
